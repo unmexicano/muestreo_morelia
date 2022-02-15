@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9c8720c-f583-4965-afb3-819e26cf8604" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;muestreo_morelia.ipynb" />
+    <list default="true" id="e9c8720c-f583-4965-afb3-819e26cf8604" name="Changes" comment="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;muestreo_morelia.ipynb">
+      <change beforePath="$PROJECT_DIR$/muestreo_morelia.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/muestreo_morelia.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/morelia_con_poblacion.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/morelia_con_poblacion.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/morelia_original.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/morelia_original.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/morelia_urbano_habitado.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/morelia_urbano_habitado.dbf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/outputs/poblacion_colonias_morelia.dbf" beforeDir="false" afterPath="$PROJECT_DIR$/outputs/poblacion_colonias_morelia.dbf" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
